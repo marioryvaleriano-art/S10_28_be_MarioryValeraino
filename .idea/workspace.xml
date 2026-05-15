@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f00271c-f8d5-4317-a07b-e0f0cf93bfd0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CrudAngular/src/main/java/vallegrande/edu/pe/controller/JuegoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudAngular/src/main/java/vallegrande/edu/pe/model/Juego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudAngular/src/main/java/vallegrande/edu/pe/repository/JuegoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudAngular/src/main/java/vallegrande/edu/pe/service/JuegoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrudAngular/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vallegrande/edu/pe/controller/EnrollmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vallegrande/edu/pe/entity/Enrollment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vallegrande/edu/pe/repository/EnrollmentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASE251S2_T10_wp" beforeDir="false" afterPath="$PROJECT_DIR$/../ASE251S2_T10_wp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASE251S3_T02-be" beforeDir="false" afterPath="$PROJECT_DIR$/../ASE251S3_T02-be" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASE251S3_T02-fe" beforeDir="false" afterPath="$PROJECT_DIR$/../ASE251S3_T02-fe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crud-Angula-OG" beforeDir="false" afterPath="$PROJECT_DIR$/../Crud-Angula-OG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crud-Springboot-Angular" beforeDir="false" afterPath="$PROJECT_DIR$/../Crud-Springboot-Angular" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discord.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Discord.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PFE_ValleGrande" beforeDir="false" afterPath="$PROJECT_DIR$/../PFE_ValleGrande" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PFE_ValleGrande_nuevo" beforeDir="false" afterPath="$PROJECT_DIR$/../PFE_ValleGrande_nuevo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TallerProgramacionIII" beforeDir="false" afterPath="$PROJECT_DIR$/../TallerProgramacionIII" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crudTienda" beforeDir="false" afterPath="$PROJECT_DIR$/../crudTienda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valery.Angular" beforeDir="false" afterPath="$PROJECT_DIR$/../valery.Angular" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3DlazVlRImoyL1r4i5RjF2lj1YH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DemoApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.DemoApplication (1).executor": "Run",
+    "Spring Boot.DemoApplication.executor": "Run",
+    "git-widget-placeholder": "develop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/gustavo/OneDrive/Desktop/S10_M10_28_MarioryValeriano/src/main/java/vallegrande/edu/pe/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f00271c-f8d5-4317-a07b-e0f0cf93bfd0" name="Changes" comment="" />
+      <created>1778859376085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778859376085</updated>
+      <workItem from="1778859377463" duration="3617000" />
+      <workItem from="1778863119760" duration="1692000" />
+      <workItem from="1778864833263" duration="12789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/vallegrande/edu/pe/DemoApplication.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
